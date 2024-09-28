@@ -1,2 +1,7 @@
 # pytorch/pytorch:2.4.1-cuda12.1-cudnn9-devel
-csiplugin/snapshot-controller:v4.0.0
+# csiplugin/snapshot-controller:v4.0.0
+kubesphere/kube-rbac-proxy:v0.11.0
+prom/node-exporter:v1.3.1
+kubesphere/notification-manager-operator:v2.3.0
+kubesphere/prometheus-config-reloader:v0.55.1
+
