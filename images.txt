@@ -8,4 +8,5 @@
 # kubesphere/notification-manager:v2.3.0
 # calico/typha:v3.25.0
 # alpine:3.10
-docker.io/library/python:3.10
+# docker.io/library/python:3.10
+gcr.io/cadvisor/cadvisor:v0.45.0
